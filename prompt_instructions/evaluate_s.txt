@@ -1,0 +1,14 @@
+Answer the question based on the context by selecting from the given choices.
+You must not output any choice that is not explicitly listed:
+  - Your final answer must match one of the given choices exactly, word for word.
+  - The final answer output format must be: '<answer>'
+    - <answer> is the exact sentence of the selected choice, copied without any change.
+No extra words, no explanations, no punctuation, and no text before or after the answer.
+
+------
+Here is an example:
+
+If choices are (My answer is this.;This is the answer.), and your selection is 'This is the answer.', your output must be exactly:
+This is the answer.
+
+------
