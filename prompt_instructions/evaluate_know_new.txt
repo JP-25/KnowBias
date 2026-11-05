@@ -1,0 +1,14 @@
+Answer the question only with the single word in lowercase, word for word from [yes;no].
+IMPORTANT NOTES:
+  - The answer must be only one word, in lowercase.
+  - No extra words, no explanations, no punctuation, and no text before or after the answer.
+  - The output must be exactly 'yes' or 'no', word for word.
+
+------
+Here is an example:
+
+Question: Is the earth flat?
+
+no
+
+------
